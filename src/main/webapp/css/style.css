@@ -1,3 +1,6 @@
+*{
+    font-family: "verdana", "arial", "宋体";
+}
 body,div,table,td {
 	margin: 0;
 	padding: 0;
@@ -5,7 +8,6 @@ body,div,table,td {
 }
 
 body {
-	font-family: "verdana", "arial", "宋体";
 	font-size: 14px;
 	line-height: 25px;
 	overflow:hidden;
@@ -194,7 +196,8 @@ div.ke4dvGunDongBiao{
 	overflow: auto;
 	overflow-x: hidden;
 	background: none;
-	width: 800px;
+	width:800px;
+	/*min-height: 300px;*/
 	height: auto;
 }
 
