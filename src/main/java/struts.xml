@@ -17,10 +17,6 @@
 	
 	<include file="struts-default.xml"/>
 	<include file="com/lab307/docmanament/conf/struts-DocManament.xml"/>
-	<include file="com/lab307/docmanament/conf/struts-DocManament-BuMen.xml"/>
-	<include file="com/lab307/docmanament/conf/struts-DocManament-KeHu.xml"/>
-	<include file="com/lab307/docmanament/conf/struts-DocManament-WenJian.xml"/>
-        <include file="com/lab307/docmanament/conf/struts-DocManament-WenJianFenLei.xml"/>
 	
 	<constant name="struts.action.excludePattern" value="ws://*"></constant>
 </struts>

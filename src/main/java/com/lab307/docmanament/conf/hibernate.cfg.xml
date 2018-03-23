@@ -20,17 +20,9 @@
 		<property name="hibernate.cache.region.factory_class">org.hibernate.cache.ehcache.EhCacheRegionFactory</property>  
 		<property name="cache.use_query_cache">true</property>
 		-->
-		<mapping resource="com/lab307/docmanament/model/BuMen.hbm.xml"/>
-		<mapping resource="com/lab307/docmanament/model/BuMenYuanGong.hbm.xml"/>
 		<mapping resource="com/lab307/docmanament/model/DengLu.hbm.xml"/>
-		<mapping resource="com/lab307/docmanament/model/KeHu.hbm.xml"/>
 		<mapping resource="com/lab307/docmanament/model/QiYe.hbm.xml"/>
-		<mapping resource="com/lab307/docmanament/model/WenJian.hbm.xml"/>
-                <mapping resource="com/lab307/docmanament/model/WenJianTemp.hbm.xml"/>
-                <mapping resource="com/lab307/docmanament/model/WenJianFenLei.hbm.xml"/>
 		<mapping resource="com/lab307/docmanament/model/YuanGong.hbm.xml"/>
                 <mapping resource="com/lab307/docmanament/model/YuanGongJueSe.hbm.xml"/>
-                <mapping resource="com/lab307/docmanament/model/QuanXian.hbm.xml"/>
-                <mapping resource="com/lab307/docmanament/model/WenJianLog.hbm.xml"/>
 	</session-factory>
 </hibernate-configuration>
