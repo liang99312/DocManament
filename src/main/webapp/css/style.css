@@ -234,7 +234,7 @@ table {
 
 table#title tr {
 	border:0;
-	background: url(/qiYe/images/ws_04.jpg) repeat-x 0 0;
+	background: url(/images/ws_04.jpg) repeat-x 0 0;
 }
 
 table#title td {
@@ -341,7 +341,7 @@ div.topBar td {
 	border: 0;
 	text-align: center;
 	vertical-align: middle;
-	background: url(/qiYe/images/form_H/form_01_01.jpg) repeat-x 0 0 ;
+	background: url(/images/form_H/form_01_01.jpg) repeat-x 0 0 ;
 }
 
 /**
@@ -361,7 +361,7 @@ div.close:hover {
 div.close {
 	width:17px;
 	height:17px;
-	background:url(/qiYe/images/form_H/form_01_02_a.jpg) no-repeat 0 0 ;
+	background:url(/images/form_H/form_01_02_a.jpg) no-repeat 0 0 ;
 }
 
 div.page td {
@@ -371,7 +371,7 @@ div.page td {
 td#logo {
 	height: 32px;
 	width: 60px;
-	background: url(/qiYe/images/ws_H/ws_01.png) no-repeat center;
+	background: url(/images/ws_H/ws_01.png) no-repeat center;
 }
 
 input[type=text] {
@@ -418,7 +418,7 @@ input.btnGo{
 	margin-left: 10px;
 	border:0;
 	vertical-align: middle;
-	background:url(/qiYe/images/ws_H/ws_03_a.png) no-repeat 0 0;
+	background:url(/images/ws_H/ws_03_a.png) no-repeat 0 0;
 }
 
 input.close {

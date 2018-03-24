@@ -22,12 +22,12 @@ dt{
 	width:168px; 
 	height:32px; 
 	border:1px solid #a6d0e7;
-	background:url(/qiYe/images/menu_H/menu_01_01_a.jpg) repeat-x 0 0; 
+	background:url(/images/menu_H/menu_01_01_a.jpg) repeat-x 0 0; 
 }
 
 dt.selected{
 	border-color:#457ce6;
-	background: url(/qiYe/images/menu_H/menu_01_01_b.jpg) repeat-x 0 0;
+	background: url(/images/menu_H/menu_01_01_b.jpg) repeat-x 0 0;
 }
 
 dt div{
@@ -38,7 +38,7 @@ dt div{
 	border-top:0px; 
 	border-bottom:0px; 
 	margin-left:17px;
-	background:url(/qiYe/images/menu_H/menu_01_02_a.jpg) repeat-x 0 0; 
+	background:url(/images/menu_H/menu_01_02_a.jpg) repeat-x 0 0; 
 	font-size:18px;
 	color:#535353;
 	font-weight:bold;
@@ -48,7 +48,7 @@ dt div{
 
 dt.selected div {
 	border-color:#205fda;
-	background: url(/qiYe/images/menu_H/menu_01_02_b.jpg) repeat-x 0 0;
+	background: url(/images/menu_H/menu_01_02_b.jpg) repeat-x 0 0;
 	color: white;
 	line-height: 31px;
 }
@@ -66,7 +66,7 @@ li{
 }
 
 li.selected {
-	background: url(/qiYe/images/menu_H/menu_01_m01.jpg) repeat-x 0 0;
+	background: url(/images/menu_H/menu_01_m01.jpg) repeat-x 0 0;
 	border:1px solid #dea303; 
 	color: white;
 }
